@@ -24,5 +24,8 @@
     <ClCompile Include="account.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="new.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
